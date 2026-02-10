@@ -1,4 +1,4 @@
-NAME = ZombieHorde
+NAME = Animal2
 
 CXX = c++
 CXXFLAGS = -Wall -Wextra -Werror -std=c++98
